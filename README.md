@@ -37,8 +37,9 @@
  
 ---
   <h3 align="left">Now playing:</h3>
- 
- [![Spotify](https://vercel.com/adithyan007hack/novatorem/6JNLEeNUXD4FFAzwxS2194gCeKRU/api/spotify)]               (https://open.spotify.com/user/31dplv57f3b7wwfiryfjm63izggi)
+  
+[![Spotify](https://novatorem-7wb7921ul-adithyan007hack.vercel.app/api/spotify)](https://open.spotify.com/user/31dplv57f3b7wwfiryfjm63izggi)
+
 
 
   
