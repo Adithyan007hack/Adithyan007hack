@@ -34,4 +34,12 @@
 
 ### :writing_hand: Website:
 <a href="Adithyan007hack.github.io">Adithyan</a>
+ 
+---
+  <h3 align="left">Now playing:</h3>
+ 
+ [![Spotify](https://vercel.com/adithyan007hack/novatorem/6JNLEeNUXD4FFAzwxS2194gCeKRU/api/spotify)]               (https://open.spotify.com/user/31dplv57f3b7wwfiryfjm63izggi)
+
+
+  
 
